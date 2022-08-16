@@ -63,7 +63,7 @@ enable = true
 img = "images/image1_resized.png"
 title = 'Taylor Johnson, MLIS'
 body = '''
-Taylor’s rich professional history in complex data description and
+Taylor Johnson (she/her) has a rich professional history in complex data description and
 organization results in high-quality archival results. With over ten
 years of experience in libraries, Taylor enjoys working closely with
 data providers to ensure long-term preservation and interoperability
@@ -134,7 +134,7 @@ special = false
 enable = true
 title = 'Contact'
 body = '''
-Taylor Johnson, MLIS\
+Taylor Johnson, MLIS (she/her)\
 Digital Data Librarian and Archivist
 
 
