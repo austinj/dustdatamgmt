@@ -134,8 +134,9 @@ special = false
 enable = true
 title = 'Contact'
 body = '''
-Taylor Johnson, MLIS (she/her)\
-Digital Data Librarian and Archivist
+Taylor Johnson, MLIS\
+Digital Data Librarian and Archivist\
+*she/her*
 
 
 **Phone**: 520 200 1707\
