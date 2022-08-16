@@ -33,11 +33,12 @@ title = "Posts"
 enable = true
 title = 'Services'
 body = '''
-DDM provides digital data resource management and archival solutions for planetary missions.
-
-*Current projects:*
-- Sample Analysis Micro-Information System (SAMIS)
-- Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer (OSIRIS-REx)
+DDM provides digital data resource management and archival solutions for planetary missions.\
+\
+\
+*Current projects:*\
+Sample Analysis Micro-Information System (SAMIS)\
+Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer (OSIRIS-REx)
 '''
 
 [[params.one.icon]]
@@ -59,7 +60,7 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "images/image1.png"
+img = "images/image1_resized.png"
 title = 'Taylor Johnson, MLIS'
 body = '''
 Taylor’s rich professional history in complex data description and
