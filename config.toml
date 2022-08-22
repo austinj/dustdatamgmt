@@ -33,7 +33,7 @@ title = "Posts"
 enable = true
 title = 'Services'
 body = '''
-DDM provides digital data resource management and archival solutions for planetary missions.\
+DDM provides digital data resource management and archival solutions for planetary missions\
 \
 \
 *Current projects:*\
